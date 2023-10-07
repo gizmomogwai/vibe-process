@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/vibe-process
+vibe-process.so
+vibe-process.dylib
+vibe-process.dll
+vibe-process.a
+vibe-process.lib
+vibe-process-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
